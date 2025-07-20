@@ -1,8 +1,14 @@
 *
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME : SHARUMATHI S B
-INTERN ID : 
+
+INTERN ID : CITSOD675
+
 DOMAIN : CYBER SECURITY & ETHICAL HACKING
+
 DURATION : 4 WEEKS
+
 MENTOR : NEELA SANTHOSH
+
 <img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/36ca20fd-2d82-41af-a683-66f0eaa6957c" />
